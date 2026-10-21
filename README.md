@@ -50,11 +50,11 @@ npm run dev -- --host 127.0.0.1 --port 5173
 
 ### 🌐 Direct Access URLs
 
-| Interface | Local URL | Description |
-| :--- | :--- | :--- |
-| **Command Center UI** | [`http://localhost:5173`](http://localhost:5173) | Dark-fintech interactive dashboard with charts, modals, simulator & copilot |
-| **Interactive API Docs** | [`http://localhost:8000/docs`](http://localhost:8000/docs) | Live Swagger OpenAPI explorer to test all 20+ REST endpoints |
-| **System Health Check** | [`http://localhost:8000/health`](http://localhost:8000/health) | Real-time service status and component diagnostics |
+| Interface | Cloud Live Demo URL | Local Development URL | Description |
+| :--- | :--- | :--- | :--- |
+| **Interactive API Docs (Swagger)** | [**Live API Swagger**](https://taxclaim-intelligence-2.onrender.com/docs) | `http://localhost:8000/docs` | Test all 20+ REST endpoints live directly from your browser |
+| **Backend System Health** | [**Live Health Check**](https://taxclaim-intelligence-2.onrender.com/health) | `http://localhost:8000/health` | Real-time service status and component diagnostics (200 OK) |
+| **Command Center UI** | *Deploying on Vercel...* | `http://localhost:5173` | Dark-fintech interactive dashboard with charts, simulator & copilot |
 
 ---
 
